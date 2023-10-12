@@ -1,0 +1,12 @@
+.grid_padding{
+    margin-top: 3%;
+}
+
+.CardHeader{
+    text-align: center;
+    font-size: large;
+    padding:3% !important;
+    background-color: #E0BBE4;
+    border-radius: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
